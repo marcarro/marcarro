@@ -2,7 +2,10 @@
 - 🎓 Studying: Computer Science @ ITESM
 - 😄 Pronouns: he/him <br>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=marcarro)](https://github.com/LordDashMe/github-contribution-stats/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcarro&theme=dracula" />
+</a>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/marcarro?theme=nord&font=inter)
 
 I code with (from most to least skilled)👇🏻: <br>
