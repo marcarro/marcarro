@@ -1,17 +1,16 @@
 ### Hi there 👋
 - 🎓 Studying: Computer Science @ ITESM
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him <br>
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=marcarro" width="400"/>
-</a>
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=marcarro)](https://github.com/LordDashMe/github-contribution-stats/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Leetcode Stats](https://leetcard.jacoblin.cool/marcarro?theme=nord&font=inter)
 
-I code with (from most to least skilled)👇🏻:
+I code with (from most to least skilled)👇🏻: <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-Frameworks:
+Frameworks👇🏻: <br>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
