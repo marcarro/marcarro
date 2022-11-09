@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 - 🎓 Studying: Computer Science @ ITESM
 - 😄 Pronouns: he/him <br>
 
