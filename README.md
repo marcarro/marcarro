@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcarro&theme=dracula" />
 </a>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/marcarro?theme=nord&font=inter)
+[![marcarro's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=marcarro&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 I code with👇🏻: <br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
